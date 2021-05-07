@@ -1,0 +1,1 @@
+﻿2021-05-07 11:20:17.5577|DEBUG|NlogImplementation.Nlog|Debug Succesful
